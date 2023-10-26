@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashma Sonara</h1>
-<h3 align="center">A passionate computer science student at NUS</h3>
+<h3 align="center">Computer science student at NUS</h3>
 
 <h3 align="left">Connect with me: <a href=""</h3>
 <p align="left">
