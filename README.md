@@ -48,6 +48,7 @@
 
 - [API Gateway](https://github.com/yashma-sonara/API_Gateway): Implementation of a centralized entry point to access and manage multiple backend services.
 - [Web Forum](https://github.com/yashma-sonara/Discussion_Forum): 🏎️ F1-themed CRUD app.
+- [Chatbot Joy](https://github.com/yashma-sonara/ip): ⚡️🐭 A task managing chatbot.
 <!-- Add more projects as needed -->
 
 ---
