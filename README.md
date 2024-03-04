@@ -60,6 +60,8 @@
 
 ---
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashma-sonara&theme=dark&show_icons=true) -->
+
 ## Who am I?
 ```python
 class WhoAmI:
