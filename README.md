@@ -68,7 +68,7 @@
 ```python
 class WhoAmI:
     user = 'Yashma Sonara'
-    current_work = 'Building a Web App for GrowthHub'
+    current_work = 'Interning at Growthbeans'
     hobbies = [
         'Going to the gym',
         'Watching Horror Movies',
