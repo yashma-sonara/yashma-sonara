@@ -46,6 +46,7 @@
 
 ### 🚀 Recent Projects
 
+- [Meal Match](https://github.com/Joentze/CodeToGive-Team9): A web platform built to match 🌮 food bank donors to beneficieries in need—Morgan Stanley CodeToGive Hackathon.
 - [TeachStack](https://github.com/yashma-sonara/tp): A student tracker app build from AB3.
 - [GrowthHub](https://docs.google.com/document/d/1Of6U-nxuVCoioFDxTJtoeQAKPeO6YXjGjNFx3ASC7sQ/edit?usp=sharing): A event sign-up web app with social media feature. Link to documentation
 - [API Gateway](https://github.com/yashma-sonara/API_Gateway): Implementation of a centralized entry point to access and manage multiple backend services.
