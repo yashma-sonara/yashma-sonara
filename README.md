@@ -46,6 +46,7 @@
 
 ### 🚀 Recent Projects
 
+- [Trading Platform](https://github.com/giccode24/2024-app-13): A platform for traders to search for instruments, apply for approval, and make trades with risk limits—GIC CodeToImpact
 - [Meal Match](https://github.com/Joentze/CodeToGive-Team9): A web platform built to match 🌮 food bank donors to beneficieries in need—Morgan Stanley CodeToGive Hackathon.
 - [TeachStack](https://github.com/yashma-sonara/tp): A student tracker app build from AB3.
 - [GrowthHub](https://docs.google.com/document/d/1Of6U-nxuVCoioFDxTJtoeQAKPeO6YXjGjNFx3ASC7sQ/edit?usp=sharing): A event sign-up web app with social media feature. Link to documentation
