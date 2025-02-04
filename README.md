@@ -70,7 +70,7 @@
 ```python
 class WhoAmI:
     user = 'Yashma Sonara'
-    current_work = 'Incoming Summer Analyst @ GS'
+    current_work = ''
     hobbies = [
         'Going to the gym',
         'Watching Horror Movies',
