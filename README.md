@@ -46,6 +46,7 @@
 
 ### 🚀 Recent Projects
 
+- [Ultimate Tic Tac Toe Agent](https://github.com/yashma-sonara/UltimateTicTacToe_Agent): A ML agent to play ultimate tic tac toe.
 - [Trading Platform](https://github.com/giccode24/2024-app-13): A platform for traders to search for instruments, apply for approval, and make trades with risk limits—GIC CodeToImpact
 - [Meal Match](https://github.com/Joentze/CodeToGive-Team9): A web platform built to match 🌮 food bank donors to beneficieries in need—Morgan Stanley CodeToGive Hackathon.
 - [TeachStack](https://github.com/yashma-sonara/tp): A student tracker app build from AB3.
