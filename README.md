@@ -71,7 +71,7 @@
 ```python
 class WhoAmI:
     user = 'Yashma Sonara'
-    current_work = 'Interning @ Morgan Stanley'
+    current_work = 'Incoming SWE @ Bloomberg'
     hobbies = [
         'Going to the gym',
         'Watching Horror Movies',
