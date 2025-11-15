@@ -9,34 +9,12 @@
   <!-- Add other social links here -->
 </p>
 
-<h3 align="center">🏫I'm currently studying Computer Science and Quant Finance at NUS</h3>
-
-
-
-<p align="center">
-  🚀 Navigating the tech cosmos, and telling bugs they're fired – because laughter is the best debugger!
-</p>
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashma-sonara&layout=compact&theme=dark" alt="Top Languages">
 </p> -->
 
-<h3 align="center">Languages and Tools:</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" width="40" height="40"/>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <!-- Add more icons for your skills -->
-</p>
 
 
 ---
@@ -44,7 +22,7 @@
 
 ---
 
-### 🚀 Recent Projects
+### 🚀 Cool Projects
 
 - [Ultimate Tic Tac Toe Agent](https://github.com/yashma-sonara/UltimateTicTacToe_Agent): A ML agent to play ultimate tic tac toe.
 - [Trading Platform](https://github.com/giccode24/2024-app-13): A platform for traders to search for instruments, apply for approval, and make trades with risk limits—GIC CodeToImpact
@@ -56,14 +34,7 @@
 - [Chatbot Joy](https://github.com/yashma-sonara/ip): ⚡️🐭 A task managing chatbot.
 <!-- Add more projects as needed -->
 
----
 
-### 📫 Let's Connect
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yashmasonara/)
-- Email: yashma.sonara@u.nus.edu
-
----
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashma-sonara&theme=dark&show_icons=true) -->
 
@@ -72,6 +43,7 @@
 class WhoAmI:
     user = 'Yashma Sonara'
     current_work = 'Incoming SWE @ Bloomberg'
+    current_status = 'Final Year @ NUS'
     hobbies = [
         'Going to the gym',
         'Watching Horror Movies',
@@ -85,3 +57,12 @@ class WhoAmI:
         TravelAllContinents()
         LearnMotorbiking()
         # Assume 10 more awesome ambitions here  ;)
+```
+---
+
+### 📫 Let's Connect
+
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yashmasonara/)
+- Email: yashma.sonara@u.nus.edu
+
+---
