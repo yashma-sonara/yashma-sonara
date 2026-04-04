@@ -22,9 +22,9 @@
 
 ---
 
-### 🚀 Cool Projects
+### 🚀 Projects
 
-- [Data Generator](https://github.com/yashma-sonara/EntityDiagramDataGenerator): Building a tool to consume ER diagrams and produce realistic data.
+- [Realistic Data Generator](https://github.com/yashma-sonara/EntityDiagramDataGenerator): Building a tool to consume ER diagrams and produce realistic data.
 - [Gap Engine](https://github.com/yashma-sonara/GapEngine/tree/main): Tool to verify claims about subjects—TinyFish x OpenAI Hackathon
 - [Ultimate Tic Tac Toe Agent](https://github.com/yashma-sonara/UltimateTicTacToe_Agent): A ML agent to play ultimate tic tac toe.
 - [Trading Platform](https://github.com/giccode24/2024-app-13): A platform for traders to search for instruments, apply for approval, and make trades with risk limits—GIC CodeToImpact
